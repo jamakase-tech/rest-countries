@@ -1,6 +1,6 @@
 ### Objective
 
-Your challenge is to integrate with the [REST Countries API](https://restcountries.eu) to pull country data and display it like in the designs. Use TypeScript and React.
+Your challenge is to integrate with the [REST Countries API](https://restcountries.com) to pull country data and display it like in the designs. Use TypeScript and React.
 
 ### Brief
 
@@ -10,7 +10,7 @@ In this challenge, you will find mobile and desktop designs in light and dark mo
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
-There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.eu) and you can use an icon font library for the icons.
+There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.com) and you can use an icon font library for the icons.
 
 There is a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
